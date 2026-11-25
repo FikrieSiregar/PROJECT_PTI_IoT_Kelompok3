@@ -1,0 +1,2 @@
+# PROJECT_PTI_IoT_Kelompok3
+Project UAS Pengantar Teknologi Informasi,Pada Project ini Kelompok 3 membuat SISTEM PENDETEKSI KEBOCORAN GAS BERBASIS ARDUINO UNO DAN SENSOR MQ-5 UNTUK INTERNET OF THINGS (IOT)
